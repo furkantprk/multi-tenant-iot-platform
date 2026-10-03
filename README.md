@@ -21,7 +21,7 @@ This project demonstrates a scalable **Multi-Tenant Architecture** where a singl
 * **Hardware:** ESP32, C++ (Arduino), FastLED / Adafruit_NeoPixel, WiFiManager
 
 ## 🎥 Live Hardware Simulation (Demo)
-*(Upload your video to GitHub and paste the link here. To do this, simply drag and drop your `.mp4` video into the GitHub Web Editor, and it will generate the link automatically.)*
+https://github.com/user-attachments/assets/2f866d2e-3099-4311-915b-2b459ec4f013
 
 ---
 
@@ -46,7 +46,8 @@ Bu proje, tek bir sunucunun aynı anda birden fazla bağımsız projeyi, katı, 
 * **Donanım (Hardware):** ESP32, C++ (Arduino), FastLED / Adafruit_NeoPixel, WiFiManager
 
 ## 🎥 Canlı Donanım Simülasyonu (Demo)
-*(Videonuzu GitHub'a yükleyip linkini buraya yapıştırın. GitHub web sitesinde projeyi düzenlerken videoyu sürükleyip bırakmanız yeterlidir, link otomatik oluşur.)*
+https://github.com/user-attachments/assets/1c6a08a6-c2f9-4b68-bbb4-da20389cded5
+
 
 ## 📁 Proje Yapısı (Directory Structure)
 - `/backend`: FastAPI sunucusu, veritabanı modelleri ve statik frontend dosyaları.
